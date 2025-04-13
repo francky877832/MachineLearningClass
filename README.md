@@ -48,8 +48,9 @@
 *You will add graphs later using `matplotlib` and `seaborn`.*
 
 ## 💻 User Interface
-*(To be added later)*  
-Screenshot of the interface (classification input, output).
+![label-distribution](https://github.com/user-attachments/assets/42507955-27d7-4b92-a9f0-7d0e6a29ce19)
+
+![text-length-distribution](https://github.com/user-attachments/assets/c20fbb08-3c80-41ca-ac06-3ca9ab250b04)
 
 ## 🔮 Next Steps
 - Train/Test split  
@@ -59,6 +60,6 @@ Screenshot of the interface (classification input, output).
 - Deploy model on a web interface or API  
 
 ## 👨‍💻 Author
-- Your Name  
-- Your University / Department  
-- Course: [Course Title]
+- Francky Ronsard SAAH  
+- Kocaeli University / Information System And Technology  
+- Course: Introduction To Machine Learning
