@@ -13,8 +13,8 @@
 ## 🧪 Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/research-abstract-classification.git
-   cd research-abstract-classification
+   git clone https://github.com/francky877832/MachineLearningClass.git
+   cd dataset
    ```
 
 2. Install dependencies:
@@ -32,7 +32,7 @@
 
 4. Run the data processing script:
    ```bash
-   python data_preprocessing.py
+   cd code
    ```
 
 ## 📁 Dataset
@@ -45,7 +45,6 @@
 - Text length histogram
 - Missing value heatmap
 
-*You will add graphs later using `matplotlib` and `seaborn`.*
 
 ## 💻 User Interface
 ![label-distribution](https://github.com/user-attachments/assets/42507955-27d7-4b92-a9f0-7d0e6a29ce19)
